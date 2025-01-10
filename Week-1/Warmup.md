@@ -13,7 +13,7 @@
     - [ ] NO - Not Yet
 
 
-3. Please provide a link to the repository you are using for this class.
+3. Please provide a link to the repository you are using for this class.<br/>
 [Repository](https://github.com/Kelp101/cs283.git)
 
 4. Briefly describe what you want to get out of this class.<br/>
