@@ -14,12 +14,9 @@
 
 
 3. Please provide a link to the repository you are using for this class.
-https://github.com/Kelp101/cs283.git
+[Repository](https://github.com/Kelp101/cs283.git)
 
-4. Briefly describe what you want to get out of this class.
-
-I want to improve my skills on programming with C throughout this course while also learning the important concepts throughout coding.
-
-5. Briefly describe any concerns you might be having with being successful in this class (if any).
-
+4. Briefly describe what you want to get out of this class.<br/>
+I want to improve my skills on programming with C throughout this course while also learning the important concepts throughout coding.<br/>
+5. Briefly describe any concerns you might be having with being successful in this class (if any).<br/>
 Coding is challenging but also time consuming, so I want to make sure that I focus on putting my efforts in those concerns in order to succeed in this class.
