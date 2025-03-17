@@ -1,3 +1,7 @@
 {
-    "C_Cpp.default.compilerPath": "/usr/bin/gcc"
+  "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+  "files.associations": {
+    "un.h": "c",
+    "dshlib.h": "c"
+  }
 }
